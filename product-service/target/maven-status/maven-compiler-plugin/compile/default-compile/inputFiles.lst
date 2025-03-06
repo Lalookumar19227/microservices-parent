@@ -1,0 +1,8 @@
+D:\product-service\src\main\java\com\programmingtechie\product_service\controller\ProductController.java
+D:\product-service\src\main\java\com\programmingtechie\product_service\dto\ProductRequest.java
+D:\product-service\src\main\java\com\programmingtechie\product_service\dto\ProductResponse.java
+D:\product-service\src\main\java\com\programmingtechie\product_service\model\Product.java
+D:\product-service\src\main\java\com\programmingtechie\product_service\ProductServiceApplication.java
+D:\product-service\src\main\java\com\programmingtechie\product_service\repository\ProductRepository.java
+D:\product-service\src\main\java\com\programmingtechie\product_service\service\ProductService.java
+D:\product-service\src\main\java\com\programmingtechie\product_service\util\DataLoader.java
