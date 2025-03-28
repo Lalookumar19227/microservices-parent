@@ -7,9 +7,11 @@ import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 //@Slf4j
 @SpringBootApplication
+@EnableDiscoveryClient
 public class OrderServicesApplication {
 
 	static Logger log = LoggerFactory.getLogger(OrderServicesApplication.class);
